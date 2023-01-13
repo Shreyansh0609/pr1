@@ -1,1 +1,1 @@
-# pr1
+This file contains instructions for the project
